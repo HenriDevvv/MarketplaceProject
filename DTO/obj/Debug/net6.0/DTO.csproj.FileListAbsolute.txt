@@ -1,0 +1,15 @@
+C:\Projects\Csharp\Personal\Marketplace\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Projects\Csharp\Personal\Marketplace\DTO\bin\Debug\net6.0\DTO.dll
+C:\Projects\Csharp\Personal\Marketplace\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Projects\Csharp\Personal\Marketplace\DTO\bin\Debug\net6.0\Entities.dll
+C:\Projects\Csharp\Personal\Marketplace\DTO\bin\Debug\net6.0\Entities.pdb
+C:\Projects\Csharp\Personal\Marketplace\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Projects\Csharp\Personal\Marketplace\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Csharp\Personal\Marketplace\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Projects\Csharp\Personal\Marketplace\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Projects\Csharp\Personal\Marketplace\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Projects\Csharp\Personal\Marketplace\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+C:\Projects\Csharp\Personal\Marketplace\DTO\obj\Debug\net6.0\DTO.dll
+C:\Projects\Csharp\Personal\Marketplace\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Projects\Csharp\Personal\Marketplace\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Projects\Csharp\Personal\Marketplace\DTO\obj\Debug\net6.0\ref\DTO.dll
